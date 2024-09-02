@@ -1,0 +1,30 @@
+.flexCol{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+.flexRow{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.button{
+	text-decoration: none;
+	background: #666;
+	padding: .3em 1em;
+	border-radius: .3em;
+	color: #fff;
+}
+
+.labelCode{
+	width: 16px;
+	height: 16px;
+	border: none;
+	border-radius: 8px;
+}
+.red{
+	background: red;
+}
+.green{
+	background: green;
+}
