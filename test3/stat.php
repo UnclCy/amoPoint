@@ -1,3 +1,4 @@
+<--http://svitex.ru/api/visitors/stat.php--> 
 <!DOCTYPE html>
 <html>
 <head>
